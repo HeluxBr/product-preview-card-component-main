@@ -124,7 +124,7 @@ p {
 
 #descricao, 
 #preco {
-    margin: 2.5rem;
+    margin: 2rem;
 }
 
 #descricao p {
@@ -152,7 +152,7 @@ p {
     color: hsl(var(--clr-darkCyan));
 }
 
-#preco h3 {
+#preco p {
     font-family: var(--montserrat);
     font-weight: 400;
     color: hsl(var(--clr-darkGrayishBlue));
